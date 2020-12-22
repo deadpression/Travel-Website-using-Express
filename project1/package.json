@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss src/style.css -o public/build/tailwind.css",
+    "dev" : "nodemon meadowlark.js"
+  },
+  "author": "Disharna",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "express-handlebars": "^5.1.0",
+    "postcss": "^8.1.4",
+    "postcss-cli": "^8.2.0",
+    "tailwindcss": "^1.9.6"
+  }
+}

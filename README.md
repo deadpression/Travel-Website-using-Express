@@ -1,9 +1,10 @@
 # Travel-Website-using-Express
 Work-in-Progress 
 ### Sneak peak
-![Homepage](project1/public/screenshots/img11.jpeg)
+For a sneak peek, please go to the directory: 
+project1/public/screenshots
 
-![Sign-in](project1/public/screenshots/img15.jpeg)
+To start Development Server:
+npm run dev
 
-![Sign-up](project1/public/screenshots/img14.jpeg)
 
